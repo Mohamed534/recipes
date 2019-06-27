@@ -1,5 +1,5 @@
 Ingredients:
-	
+	new Ingredients were added
 
 How to make
 	i need to add some informations
